@@ -1,0 +1,45 @@
+body {
+	background: url(1619786674_23-phonoteka_org-p-razmitii-fon-gori-23.jpg);
+	background-size: cover;
+	font-family: Gill Sans, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	line-height: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	text-shadow: 0 0 10px black;
+}
+
+.aboba {
+	color: white;
+}
+
+.aboba2 {
+	color: white;
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	margin: 15px;
+	margin-bottom: 40px;
+	text-shadow: 0 0 10px black;
+}
+
+img {
+	width: 500px;
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+
+p {
+	background: white;
+	width: 500px;
+	margin: auto;
+	margin-top: -5px;
+}
